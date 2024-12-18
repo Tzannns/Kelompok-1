@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/GUI/LoginForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/controllers/SupplierController.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/views/MainMenu.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/controllers/HasilProduksiController.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/reports/laporan_supplier.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/GUI/PermintaanProduksiForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/GUI/BahanBaku.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/controllers/BahanBakuController.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/views/PermintaanProduksiForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/models/BahanBaku.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/ProductionInventoryApp.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/config/DatabaseConnection.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/models/PermintaanProduksi.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/views/HasilProduksiForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/GUI/HasilProduksi.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/GUI/MainMenu.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/views/SupplierForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/GUI/SupplierForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/controllers/PermintaanProduksiController.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/views/LoginForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/models/Supplier.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/views/BahanBakuForm.java</file>
+            <file>file:/C:/Users/yangm/OneDrive/Dokumen/NetBeansProjects/ProductionInventory/src/models/HasilProduksi.java</file>
+        </group>
+    </open-files>
+</project-private>
